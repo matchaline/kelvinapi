@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "when": "you receive this",
+        "message": "hai hai :D pas lo nerima ini kemungkinan besar lo lagi ulang tahun jadi (lagi lagi) habedee kelvin, wish you all the best. hm, sbnrnya gue noob banget dalam hal webdev (like gue bnrn bikin ini sambil belajar HAHA) dan ini juga speedrun banget bikinnya sehari HAHA MAAF BGT tapi oh well hope u like it wkwkkw. apa ya, gue ngide aja sih bikin open when open when gini, aturannya kan cuma boleh dibuka kalo sesuai kondisi gitu ya tapi ini terserah lu aja sih ya mau ngintip kapan aja wkwkwk. yaudah gue gatau mau ngomong apa lagi, enjoy this simple gift from me haha!"
+    },
+    {
+        "id": 2,
+        "when": "you're happy",
+        "message": "wah seorang kelvin lagi bahagia :D jujur dari pov gue sih lu orangnya sangat cheerful sih ya tapi kalo lo beneran lagi bahagia waaahhh i'm happy for you too yaaayyy~~ enjoy every moment that you have ya vinn dan jangan lupa radiate happy vibes ke sekitar lu jugaaa, selamat bersenang senaaanggg:DD"
+    },
+    {
+        "id": 3,
+        "when": "you're sad",
+        "message": "omg kelvin sedih :(( tapi gapapa kok, sedih itu wajar, kalau mau nangis juga gapapa. take your timee, istirahat aja dulu dan dirapiin dulu emosinyaa, besok jangan lupa bangkit lagii yaa :)) kelvin kuat jadi semangat terus ok. also, feel free to hit me up if u need someone. gue ga janji bisa respon saat itu juga siihh, tapi yaa.. you're not alonee"
+    },
+    {
+        "id": 4,
+        "when": "you're studying",
+        "message": "haloo kelvin! lagi belajar yaa? ok seharusnya kalo belajar nggak buka ini sih wkwk tapi siapa tau lu lagi gabut di tengah belajar, entahlah. anywaayy, semangat belajarnya kelvin!! gue yakin lu orangnya keren banget sih jadi pasti naro effort terbaik luu! eh iya tapi jangan masokis juga yaa. tetep makan, minum, tidur yang teratur vinn!! jaga kesehatannn biar belajarnya bisa maksimaall"
+    },
+    {
+        "id": 5,
+        "when": "you're not okay",
+        "message": "i know that it feels like the world is falling down and you can't make it through. just gotta hold on. i know that it hurts, but the sun will shine through. there's gon' ne netter days around the corner, it's true. i know there's gonna be better days for you."
+    },
+    {
+        "id": 6,
+        "when": "tomorrow is a big day",
+        "message": "halo lagi kelvin :)) besok ada hari yang besar buat lu yaa? welp gue gatau itu ujian, kuis, praktikum, atau mungkin proker dan lain halnya tapi semangat kelviinn, semoga usaha dan persiapan lo selama ini bisa menghasilkan yang sebaik mungkin besokk!! udah siapin materi ini itu jangan lupa tetep jaga kesehatan okee? intinya semangat terus dan semogaaa besok diberi kelancaran dan apapun hasilnya bisa sesuai ekspektasii"
+    },
+    {
+        "id": 7,
+        "when": "you're burnt out",
+        "message": "hai, capek ya? pasti capek ga sih... gue yakin effort lu selama ini udah besar banget jadi wjar kalau lu capekk. ini template bgt sih, tapi gapapa istirahat dulu aja vin, refreshing gitu biar otak ga penat-penat banget. jangan lupa kalo lo ga sendirii, ada orang-orang yang mau bantu loo jadi sesekali percayain ke mereka aja gapapaa... ga semuanya harus lo tanggung sendiri ok (maaf kalo cringe tp intinya semangat, jangan lupa istirahat)"
+    },
+    {
+        "id": 8,
+        "when": "you're not feeling well",
+        "message": "get well very very veryyy soon kelvin :(( pls istirahat dulu sama jangan lupa makannn!!! tidur yang teratur sama banyakin minum air putihh! (template bgt ga sih, mmf) ya intinya anda seharusnya lebih tau treatment yang tepat tapi vin jangan lupa jaga kesehatann lu sendirii okk jgn dipaksainn kalo udah mulai ngerasa gaenak badann. ok sekian mending lu langsung istirahat atau makan :("
+    },
+    {
+        "id": 9,
+        "when": "you achieve something",
+        "message": "heeyyy!! congratulationss atas achievement loo!!! omg GUE BANGGA BGT SAMA LO TAU GA SIHHH tapi ga kaget juga sihh soalnya lo kereennn!! selamat banget aaaa semoga ke depannya bisa terus ngegapai achievements2 sekecil apapun ituu. FOYA FOYA DIKIT GPP SIH KATA GUE WKKWKWKWK intinya congraattss ohiyaa and hopefully page ini yang paling sering lo buka alias SEMOGA LO SERING SERING ACHIEVE SESUATU OK SELAMAT DAN SEMANGATTTTT"
+    },
+    {
+        "id": 10,
+        "when": "you don't succeed",
+        "message": "hai, hm sejujurnya gue sangat berharap lu ga ngebuka page ini, tapi if you do, semangat :(( failing is not a sin, kalopun you're not okay with that, itu ga masalahh... istirahat dulu gapapa kok tapi jangan nyerah ok? pasti ada hal-hal baikk yang nunggu lo di depann"
+    }
+]
